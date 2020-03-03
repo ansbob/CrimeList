@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Criminal intent</string>
+    <string name="title_label">Название</string>
+    <string name="hint">Название жалобы</string>
+    <string name="date_picker_title">Дата жалобы</string>
+    <string name="delete">Удалить</string>
+    <string name="add">Добавить</string>
+    <string name="show">Показать</string>
+    <string name="hide">Скрыть</string>
+    <string name="subtitle_format">%1$s жалоб</string>
+    <string name="suspect_text">Подозреваемый</string>
+    <string name="report_text">Отправить</string>
+    <string name="report">%1$s!
+        Жалоба обнаружена в %2$s. %3$s, и %4$s
+    </string>
+    <string name="report_solved">Решено!</string>
+    <string name="report_unsolved">Не решено!</string>
+    <string name="report_no_suspect">нет подозреваемого</string>
+    <string name="report_suspect">подозреваемый %s</string>
+    <string name="report_subject">CriminalIntent доклад жалобы</string>
+    <string name="send_report">Отправить доклад жалобы с помощью</string>
+</resources>
